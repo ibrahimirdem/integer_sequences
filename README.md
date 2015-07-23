@@ -1,2 +1,2 @@
 # integer_sequences
-This repository is an archive of some of the integer sequences.
+This repository is an archive for some of the integer sequences.
