@@ -1,4 +1,4 @@
-__author__ = 'AhmetOguzhan'
+__author__ = 'aoozdemir'
 
 for i in range(2, 5):
     for j in xrange(10**(i-1), 10**i):

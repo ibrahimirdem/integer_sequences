@@ -1,4 +1,4 @@
-__author__ = 'AhmetOguzhan'
+__author__ = 'aoozdemir'
 
 print 2
 

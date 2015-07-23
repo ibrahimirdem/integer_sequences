@@ -1,4 +1,4 @@
-__author__ = 'AhmetOguzhan'
+__author__ = 'aoozdemir'
 
 for i in range(2, 10000):
     sum = 0
